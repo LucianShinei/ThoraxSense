@@ -1,0 +1,2 @@
+# ThoraxSense
+ThoraxSense__Enhanced_Thoracic_Multi_Disease_Detection_on_Chest_X_Rays_Using_DenseNet121_and_Class_Imbalance_Optimization
