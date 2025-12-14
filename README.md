@@ -1,5 +1,9 @@
-# ThoraxSense
-ThoraxSense__Enhanced_Thoracic_Multi_Disease_Detection_on_Chest_X_Rays_Using_DenseNet121_and_Class_Imbalance_Optimization
+This repository contains the PyTorch and TensorFlow implementations
+used in the paper "ThoraxSense: Enhanced Thoracic Multi-Disease Detection..."
 
-ChestX-ray14
-https://www.kaggle.com/datasets/nih-chest-xrays/data/data
+- pytorch_densenet121_training.ipynb
+- tensorflow_vgg16_training.ipynb
+
+Dataset:
+NIH ChestX-ray14 (public)
+https://www.kaggle.com/datasets/nih-chest-xrays/data
